@@ -55,7 +55,7 @@ Static variables are shared among all instances of a class. They are declared us
 
 
 1. public class MyClass {
-2.     static int count = 0; // Static variable
+2.   static int count = 0; // Static variable
 3. }
 
 
@@ -71,9 +71,9 @@ Static methods belong to the class and can be called without creating an instanc
 
 
 1. public class MathUtils {
-2.     public static int add(int a, int b) {
-3.         return a + b;
-4.     }
+2.   public static int add(int a, int b) {
+3.    return a + b;
+4.  }
 5. }
 
 
